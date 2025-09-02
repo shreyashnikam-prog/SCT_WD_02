@@ -6,7 +6,7 @@ It is designed with **HTML, CSS, and JavaScript**, providing a clean UI and smoo
 ---
 
 ## 🚀 Demo
-👉 [Live Demo](https://your-demo-link.com)  
+👉 [Live Demo]( https://shreyashnikam-prog.github.io/SCT_WD_02/)  
 
 ---
 
